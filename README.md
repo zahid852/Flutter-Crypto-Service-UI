@@ -1,16 +1,3 @@
-# crypto_service
+# Flutter Crypto Service App UI
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[cypto_service_ui.pdf](https://github.com/zahid852/Flutter-Crypto-Service-UI/files/12331987/cypto_service_ui.pdf)
